@@ -25,7 +25,7 @@ public class Showroom implements utility {
         System.out.println();
         System.out.print("SHOWROOM NAME: ");
         showroom_name = sc.nextLine();
-        System.out.print(("SHOWROOM ADDRESS: "));
+        System.out.print(("SHOWROOM ADDRESS: ")); //chc
         showroom_address = sc.nextLine();
         System.out.print("MANAGER NAME: ");
         manager_name = sc.nextLine();
